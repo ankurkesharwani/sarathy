@@ -1,0 +1,8 @@
+*font									:	Helvetica 25
+*Frame*background						:	#FFFFFF
+*Button*highlightcolor					:	#E74C3C
+*Button*highlightthickness				:	10
+*Button*activebackground				:	#E74C3C
+*Button*activeforeground				:	#FFFFFF
+*Button*background						:	#3A81CC
+*Button*foreground						:	#FFFFFF
